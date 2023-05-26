@@ -52,7 +52,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n     \"email\" : \"lejla_m96@live.com\" ,\r\n     \"password\" : \"QAMP2023testing!\"\r\n}",
+					"raw": "{\r\n     \"email\" : \"{{email}}\" ,\r\n     \"password\" : \"{{password}}\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
